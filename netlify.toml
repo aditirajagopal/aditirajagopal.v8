@@ -8,3 +8,4 @@ NODE_VERSION = "14"
 
 [[plugins]]
 package = "@netlify/plugin-nextjs"
+PLASMIC_AUTH_TOKEN = "Vo34wuGS4sZpEjV0bu5MQK7Z3qlrnmNy9rICNaz6cfdZMIhDlHK4KfmZflUY0AZJHiAa5dEZXlQddkK1cog"
