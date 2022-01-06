@@ -1,13 +1,13 @@
 ---
 title: 'January Thoughts'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/assets/blog/hello-world/cover.jpg'
+# excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+# coverImage: '/assets/blog/hello-world/cover.jpg'
 date: 'January 2022'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
-ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  name: Aditi Rajagopal
+#  picture: '/assets/blog/authors/tim.jpeg'
+#ogImage:
+#  url: '/assets/blog/hello-world/cover.jpg'
 ---
 
 ## Things I have been playing with 
